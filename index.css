@@ -1,0 +1,34 @@
+body {
+	background-color: yellow;
+}
+.card {
+	margin: 55px auto;
+	background-color: white;
+	width: 25%;
+	padding: 12px;
+	border-radius: 12px;
+}
+.un {
+	width: 100%;
+}
+.jaune {
+	background-color: yellow;
+	border-radius: 12px;
+	padding: 12px;
+	width: max-content;
+}
+.deux {
+	border-radius: 100%;
+	width: 10%;
+	height: 60px;
+}
+.gris {
+	color: grey;
+	font-size: large;
+}
+h1 {
+	font-weight: bold;
+}
+.dernier {
+	font-weight: bold;
+}
