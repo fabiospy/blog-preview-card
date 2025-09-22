@@ -32,3 +32,6 @@ h1 {
 .dernier {
 	font-weight: bold;
 }
+h1:hover {
+	color: yellow;
+}
